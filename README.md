@@ -9,6 +9,11 @@ It allows the user to store favorite bands in an alphabeta list. The user can sh
 
 The code is assembled from the book, with minor changes to fix certain issues and make it work properly. Finished in June/July of 2014.
 
+Development Environment
+======
+
+OS X 10.8 Mountain Lion, XCode 5. Tested the App in iOS 7.
+
 License and Copyright
 ======
 
