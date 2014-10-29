@@ -14,7 +14,7 @@ Development Environment
 
 OS X 10.8 Mountain Lion, XCode 5.   
 
-The App is tested in iOS 7.
+The final App is installed and tested on iOS 7.
 
 License and Copyright
 ======
