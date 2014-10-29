@@ -12,7 +12,9 @@ The code is assembled from the book, with minor changes to fix certain issues an
 Development Environment
 ======
 
-OS X 10.8 Mountain Lion, XCode 5. Tested the App in iOS 7.
+OS X 10.8 Mountain Lion, XCode 5.   
+
+The App is tested in iOS 7.
 
 License and Copyright
 ======
