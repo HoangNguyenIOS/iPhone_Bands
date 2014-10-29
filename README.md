@@ -1,7 +1,7 @@
 iPhone_Bands
 ============
 
-A complete iPhone App project called Bands, from book "iOS Programmming".
+This is a complete iPhone App project called "Bands", from book "iOS Programmming".
 
 This Bands App project is from the book "iOS Programming" by Nick Harris (2014), ISBN 978-1-118-84147-1.
 
